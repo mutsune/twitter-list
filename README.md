@@ -1,5 +1,6 @@
 # twitter-list
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/514e6cf43bd94b789999a978b4078bbb)](https://app.codacy.com/app/mutsune/twitter-list?utm_source=github.com&utm_medium=referral&utm_content=mutsune/twitter-list&utm_campaign=Badge_Grade_Dashboard)
 [![Known Vulnerabilities](https://snyk.io//test/github/mutsune/twitter-list/badge.svg?targetFile=package.json)](https://snyk.io//test/github/mutsune/twitter-list?targetFile=package.json)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4a956c5ff2422940098a/maintainability)](https://codeclimate.com/github/mutsune/twitter-list/maintainability)
 
