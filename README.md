@@ -1,5 +1,7 @@
 # twitter-list
 
+[![Known Vulnerabilities](https://snyk.io//test/github/mutsune/twitter-list/badge.svg?targetFile=package.json)](https://snyk.io//test/github/mutsune/twitter-list?targetFile=package.json)
+
 - show lists and its members
   - `node lists.js <twitter_username>`
   - `node members.js <list_id> <list_name>`
