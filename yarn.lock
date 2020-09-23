@@ -851,10 +851,10 @@ mimic-response@^1.0.0:
   resolved "https://registry.yarnpkg.com/mimic-response/-/mimic-response-1.0.1.tgz#4923538878eef42063cb8a3e3b0798781487ab1b"
   integrity sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ==
 
-node-jq@^1.11.1:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/node-jq/-/node-jq-1.11.1.tgz#affdf4acf1a844bb2554d14c39fd960a5c3e6274"
-  integrity sha512-7E3IzVrkZ2cC7tMMfaHLlUWKwonTU0k/dgiZDZMAqfjkBMPHTr4apXYwT5Vz8RtBwar2xekxh9t4Oy64BQY9Yg==
+node-jq@^1.11.2:
+  version "1.11.2"
+  resolved "https://registry.yarnpkg.com/node-jq/-/node-jq-1.11.2.tgz#5b1f61bb19f9926c5f795e0242b354953b1c7d23"
+  integrity sha512-1XHvOtOO07esWyzcH7/dP5qasBADZimPPdZ6sMltSn/frTpd6TMaJFuKZ0Yoqu/jjuoVf9eDkdiIuvEmPlFKLA==
   dependencies:
     "@hapi/joi" "^16.1.7"
     "@types/hapi__joi" "^17.1.0"
