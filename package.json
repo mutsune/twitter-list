@@ -6,6 +6,7 @@
   "private": true,
   "repository": "https://example.com/",
   "dependencies": {
+    "got": "^11.8.2",
     "node-jq": "^1.12.0",
     "twitter": "^1.7.1"
   }
